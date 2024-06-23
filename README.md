@@ -25,4 +25,4 @@ analysis_results = an.perform_analysis(cleaned_data)
 
 # Visualize the results
 vz.visualize_results(analysis_results)
-
+# This project is licensed under the GNU License - see the LICENSE file for details
